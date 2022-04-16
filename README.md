@@ -1,2 +1,7 @@
 # Project-1
-Face Recognition Attendance System
+#Face Recognition Attendance System
+
+What Is A Facial Recognition Attendance System?
+
+Face Recognition Based Attendance Marking System is based on the identification of face recognition to solve the previous attendance system issues. This system uses camera to capture the images of the employee to do face detection and recognition. The captured image is compared one by one with the face database to search for the worker’s face where attendance will be marked when a result is found in the face database. The main advantage of this system is where attendance is marked on the server which is highly secure where no one can mark the attendance of other. Moreover, in this proposed system, the face detection algorithm is improved by using the skin classification technique to increase the accuracy of the detection process. Although more efforts are invested in the accuracy of the face detection algorithm, the system is yet not portable. This system requires a standalone computer which will need a constant power supply that makes it not portable. This type of system is only suitable for marking staff’s attendance as they only need to report their presence once a day, unlike students which require to report their attendance at every class on a particular day, it will be inconvenient if the attendance marking system is not portable. Thus, to solve this issue, the whole attendance management system can be developed on a portable module so that it can be work just by executing the python program.
+
